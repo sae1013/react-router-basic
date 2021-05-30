@@ -1,0 +1,18 @@
+.section a {
+    color: #042b5f;
+    text-decoration: none;
+}
+
+.section ul {
+    list-style: none;
+}
+
+.section li {
+    margin-bottom: 10px;
+}
+.section a:hover,
+.section a:active{
+  color: #95bcf0;
+  padding-bottom: 0.25rem;
+  border-bottom: 4px solid #95bcf0;
+}
